@@ -61,4 +61,4 @@ I need to complete more challenges in future.
 
 ## Acknowledgments
 
-This is where I can give a hat tip to google helped me out on this project.
+This is where I can give a hat tip to "google" as it helped me out on this project.
